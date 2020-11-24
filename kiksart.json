@@ -1,0 +1,151 @@
+{
+  “id” : 329169868092101,
+  “following_count” : 1,
+  “email_encoded” : null,
+  “notification_settings” : {
+    “push” : {
+      “photo_reposted” : true,
+      “mention_added” : true,
+      “like_added” : true,
+      “comment_added” : true,
+      “user_tag_added” : true,
+      “fte_used” : true,
+      “pa_promotions” : true,
+      “pa_messaging” : null,
+      “fte_stickers” : true,
+      “messaging” : true,
+      “follow_added” : true,
+      “photo_viewed” : true,
+      “pa_info” : true,
+      “friend_joined” : true,
+      “challenges” : true
+    },
+    “email” : false,
+    “in_app” : {
+      “photo_reposted” : true,
+      “pa_promotions” : true,
+      “like_added” : true,
+      “comment_added” : true,
+      “user_tag_added” : true,
+      “fte_used” : true,
+      “mention_added” : true,
+      “fte_stickers” : true,
+      “follow_added” : true,
+      “messaging” : true,
+      “photo_viewed” : true,
+      “pa_info” : true,
+      “friend_joined” : true,
+      “challenges” : true
+    }
+  },
+  “locations_count” : 0,
+  “is_verified_type_new” : false,
+  “followers_count” : 0,
+  “shop_subscriptions” : [
+
+  ],
+  “location” : {
+    “coordinates” : [
+
+    ],
+    “state” : “”,
+    “street” : “”,
+    “city” : “”,
+    “zip” : “”,
+    “country” : “”
+  },
+  “show_report_popup” : false,
+  “key” : “c1e87287-ae95-4bd8-bebe-31a368ad7a09”,
+  “photo” : “https://cdn190.picsart.com/232804661007900.png”,
+  “saves_count” : 0,
+  “type” : “user”,
+  “interests” : [
+
+  ],
+  “verified_emails” : [
+
+  ],
+  “points” : 0,
+  “remix_score” : 0,
+  “top_fans_count” : 0,
+  “brand” : {
+    “contacts” : [
+
+    ],
+    “packages” : [
+
+    ]
+  },
+  “email” : “bshdjdksjdks@hotmail.com”,
+  “status_message” : “”,
+  “verified_type” : “subscribed”,
+  “mature” : false,
+  “name” : “bshdjdksjdks”,
+  “provider” : “picsart”,
+  “is_activated” : false,
+  “status” : “success”,
+  “username” : “bshdjdksjdks5”,
+  “connections” : [
+
+  ],
+  “photos_count” : 0,
+  “tags_count” : 0,
+  “tags” : [
+
+  ],
+  “designs_count” : 0,
+  “groups_count” : {
+    “street” : null,
+    “city” : null,
+    “country” : null,
+    “zip” : null,
+    “country_code” : “IQ”,
+    “coordinates” : [
+
+    ],
+    “state” : null
+  },
+  “has_user_followings” : false,
+  “streams_count” : 0,
+  “gender” : “”,
+  “dashboard_visibility” : false,
+  “username_changed” : true,
+  “selected_interests” : {
+    “sticker” : [
+
+    ],
+    “photo” : [
+
+    ]
+  },
+  “stickers_count” : 0,
+  “has_top_fans” : false,
+  “is_verified” : false,
+  “verified_categories” : [
+
+  ],
+  “default_profile_pic” : true,
+  “likes_count” : 0,
+  “email_verification” : {
+    “status” : “invalid”,
+    “popup_data” : {
+      “show_popup” : false,
+      “show_date” : “2020-11-16T07:57:39.576Z”,
+      “show_count” : 1
+    },
+    “role_address” : false,
+    “disposable” : false,
+    “is_verified” : false
+  },
+  “subscription” : {
+    “granted” : true
+  },
+  “firebase” : {
+    “apple” : [
+      “eHWn4ivm3UfKg2YCWPINTO:APA91bFwqQGXzeuFfFSnYB-xsr5ZLOj8dnCRZHmznE-y0L9pLZA2blXKe4vHdoXvFwFvvxb4M23IW0Ixntly3zq1LzNJPsfL8tilq7WoaN2y9g8gLOQX3t9XLtKPgvnRQUYL73bOmr1y”
+    ],
+    “android” : [
+
+    ]
+  }
+}
